@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React, NodeJs<br>🎯 Goals: To use my skills at a reputed organization</p>
+<p align="left">📚 I'm currently learning React, NodeJs<br>🎯 Goals: To use my skills at a innovative organization</p>
 
 ###
 
